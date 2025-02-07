@@ -1,5 +1,5 @@
 #
-# spec file for package fcitx5-mcbopomofo
+# spec file for package pcsc-ezusb
 #
 # Copyright (c) 2025 SUSE LLC
 #
